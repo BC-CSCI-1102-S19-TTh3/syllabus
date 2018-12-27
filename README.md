@@ -31,7 +31,7 @@ I will be posting lecture notes and other supplementary material (e.g., readings
 
 [Course schedule on Google Sheets:](https://docs.google.com/spreadsheets/d/1eP8h4zb-2wCc-n-p7G9y-ZunH5iwsF_AOyBQuw86iIA/edit?usp=sharing) The course schedule, including planned topics, due dates for readings and assignments, and dates of exams, is maintained as a Google Sheet. Changes to the schedule will be announced in class and reflected in the course schedule.
 
-Slack: Questions about problem sets are best asked using Slack. The instructor and TAs will hold virtual Slack office hours each week in addition to their in-person office hours. You may also submit questions to a discussion on Slack, which will then be answered during our virtual office hours, if not earlier. Problem Set 1 will walk you through using Slack to ask a question.
+[Slack for discussions and questions on problem sets:](https://bc-csci-1102-s19-tth3.slack.com) Questions about problem sets are best asked using Slack. The instructor and TAs will hold virtual Slack office hours each week in addition to their in-person office hours. You may also submit questions to a discussion on Slack, which will then be answered during our virtual office hours, if not earlier. Problem Set 1 will walk you through using Slack to ask a question.
 
 
 ### Textbook
