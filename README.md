@@ -5,7 +5,7 @@
 
 **Meets:** Tuesday and Thursday 3pm-4:15pm, Fulton Hall 250
 
-**Instructor:** [Emily Prud'hommeaux](http://www.cs.bc.edu/~prudhome/)
+**Instructor:** [Prof. Emily Prud'hommeaux](http://www.cs.bc.edu/~prudhome/)
 
 **Office:** St. Mary's South, 2nd floor
 
