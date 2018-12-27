@@ -24,9 +24,9 @@
 In this course the student will write programs that employ more sophisticated and efficient means of representing and manipulating information. Part of the course is devoted to a continued study of programming. The principal emphasis, however, is on the study of the fundamental data structures of computer science (lists, stacks, queues, trees, etc.). Both their abstract properties and their implementations in computer programs and the study of the fundamental algorithms for manipulating these structures. Students will use Java for programming.
 
 ### Course Resources
-[Problem sets and code on GitHub and GitHub Classroom:](https://github.com/BC-CSCI-1102-F18-MW) Problem sets and sample code will be distributed using GitHub, and problem sets will submitted using GitHub. Problem Set 1 set will walk you through the process of accessing and submitting problem sets using GitHub and GitHub Classroom.
+[Problem sets and code on GitHub and GitHub Classroom:](https://github.com/BC-CSCI-1102-S19-TTh3) Problem sets and sample code will be distributed using GitHub, and problem sets will submitted using GitHub. Problem Set 1 set will walk you through the process of accessing and submitting problem sets using GitHub and GitHub Classroom.
 
-[Lecture notes, web quizzes, grades, and supplementary materials on Canvas:](https://bostoncollege.instructure.com/courses/1586272) 
+[Lecture notes, web quizzes, grades, and supplementary materials on Canvas:](https://bostoncollege.instructure.com/courses/1591791) 
 I will be posting lecture notes and other supplementary material (e.g., readings, study guides) on Canvas. In addition, students will complete weekly web quizzes using Canvas, and grades will be posted to the Canvas gradebook.
 
 [Course schedule on Google Sheets:](https://docs.google.com/spreadsheets/d/1eP8h4zb-2wCc-n-p7G9y-ZunH5iwsF_AOyBQuw86iIA/edit?usp=sharing) The course schedule, including planned topics, due dates for readings and assignments, and dates of exams, is maintained as a Google Sheet. Changes to the schedule will be announced in class and reflected in the course schedule.
@@ -47,11 +47,11 @@ Elliot Koffman and Paul A. T. Wolfgang. *Data Structures: Abstraction and Design
 
 **Late work** For each day an assignment is late, I will deduct 10% of the total possible points for that assignment from your grade. For example, if you get everything right but turn in your assignment 2 days late, you'll get 80% of the possible points. Assignments more than one week late will not be accepted.
 
-**Exams** Make-up exams will be offered only in extreme circumstances (e.g., hospitalization). An unexcused absence on the day of an exam will result in a score of 0 for that exam. 
+**Make-up Exams** Make-up exams will be offered only in extreme circumstances (e.g., hospitalization). An unexcused absence on the day of an exam will result in a score of 0 for that exam.
 
-**Regrading of Exams** Requests to re-grade an exam will be honored. Note that such a request will entail grading the entire exam from beginning to end. Your grade may end up being lower, rather than higher, after a re-grade.
+**Regrading of Exams** Requests to re-grade an exam will be honored. Note that such a request will entail re-grading the entire exam from beginning to end. Your grade may end up being lower, rather than higher, after a re-grade.
 
-**Problem Set Debugging** Students are encouraged to ask questions about their problem sets using Slack. When emailing a questions, students must push their latest code to GitHub, take a screenshot of the error they are receiving, and email the screenshot plus a description of their problem to both the instructor and the TAs.
+**Problem Set Debugging** Students are encouraged to ask questions about their problem sets using Slack. When emailing a question, students must push their latest code to GitHub, take a screenshot of the error they are receiving, and email the screenshot plus a description of their problem to both the instructor and the TAs.
 
 
 ### Grading
