@@ -27,31 +27,29 @@ In this course the student will write programs that employ more sophisticated an
 [Problem sets and code on GitHub and GitHub Classroom:](https://github.com/BC-CSCI-1102-S19-TTh3) Problem sets and sample code will be distributed using GitHub, and problem sets will submitted using GitHub. Problem Set 1 set will walk you through the process of accessing and submitting problem sets using GitHub and GitHub Classroom.
 
 [Lecture notes, web quizzes, grades, and supplementary materials on Canvas:](https://bostoncollege.instructure.com/courses/1591791) 
-I will be posting lecture notes and other supplementary material (e.g., readings, study guides) on Canvas. In addition, students will complete weekly web quizzes using Canvas, and grades will be posted to the Canvas gradebook.
+I will be posting lecture notes, links to assignments and example code, and supplementary readings on Canvas. In addition, students will complete weekly web quizzes using Canvas, and grades will be posted to the Canvas gradebook.
 
 [Course schedule on Google Sheets:](https://docs.google.com/spreadsheets/d/1eP8h4zb-2wCc-n-p7G9y-ZunH5iwsF_AOyBQuw86iIA/edit?usp=sharing) The course schedule, including planned topics, due dates for readings and assignments, and dates of exams, is maintained as a Google Sheet. Changes to the schedule will be announced in class and reflected in the course schedule.
 
-[Slack for discussions and questions on problem sets:](https://bc-csci-1102-s19-tth3.slack.com) Questions about problem sets are best asked using Slack. The instructor and TAs will hold virtual Slack office hours each week in addition to their in-person office hours. You may also submit questions to a discussion on Slack, which will then be answered during our virtual office hours, if not earlier. Problem Set 1 will walk you through using Slack to ask a question.
+[Slack for discussions and questions on problem sets:](https://bc-csci-1102-s19-tth3.slack.com) The instructor and TAs will hold virtual Slack office hours each week in addition to their in-person office hours. You may ask questions on Slack during virtual office hours for an immediate answer or at any time for an answer within 24 hours. Problem Set 1 will walk you through using Slack to ask a question.
 
 
-### Textbook
+### Required Textbook
 
-Elliot Koffman and Paul A. T. Wolfgang. *Data Structures: Abstraction and Design Using Java, 3rd Edition.* Wiley, 2016. **(Required)**
+Elliot Koffman and Paul A. T. Wolfgang. *Data Structures: Abstraction and Design Using Java, 3rd Edition.* Wiley, 2016.
 
 
 ### Course Policies
 
-**Attendance** Attendance is required. You are responsible for all the material that is covered during class, even when your absence from class is excused. While in attendance, you are expected to actively participate. 
+**Attendance** Attendance is required. You are responsible for all the material that is covered during class, even when your absence from class is excused. While in attendance, you are expected to actively participate. When you are excused, download the lecture notes from Canvas and ask a classmate what else you might have missed.
 
 **Laptops** Class meetings will include lectures, demonstrations, and hands-on activities. Laptops should be closed unless we are writing code as part of a class activity.
 
-**Late work** For each day an assignment is late, I will deduct 10% of the total possible points for that assignment from your grade. For example, if you get everything right but turn in your assignment 2 days late, you'll get 80% of the possible points. Assignments more than one week late will not be accepted.
+**Late work** For each day an assignment is late, we will deduct 10% of the total possible points for that assignment from your grade. For example, if you get everything right but turn in your assignment 2 days late, you'll get 80% of the possible points. Assignments more than one week late will not be accepted.
 
-**Make-up Exams** Make-up exams will be offered only in extreme circumstances (e.g., hospitalization). An unexcused absence on the day of an exam will result in a score of 0 for that exam.
+**Exams** Make-up exams will be offered only in extreme circumstances (e.g., hospitalization). An unexcused absence on the day of an exam will result in a score of 0 for that exam. Requests to re-grade an exam will be honored. Note that such a request will entail re-grading the entire exam from beginning to end. Your grade may end up being lower, rather than higher, after a re-grade.
 
-**Regrading of Exams** Requests to re-grade an exam will be honored. Note that such a request will entail re-grading the entire exam from beginning to end. Your grade may end up being lower, rather than higher, after a re-grade.
-
-**Problem Set Debugging** Students are encouraged to ask questions about their problem sets using Slack. When emailing a question, students must push their latest code to GitHub, take a screenshot of the error they are receiving, and email the screenshot plus a description of their problem to both the instructor and the TAs.
+**Seeking Help** Students are encouraged to ask questions about their problem sets using Slack so that everyone in the class can see your question and its answer. When seeking help, students must push their latest code to GitHub, and the full text or screenshot of any relevant error messages.
 
 
 ### Grading
