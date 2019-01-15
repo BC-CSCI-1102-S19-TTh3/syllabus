@@ -74,6 +74,6 @@ http://www.bc.edu/offices/stserv/academic/integrity.html
 ### External Resources  
 [Java SE8](https://docs.oracle.com/javase/10/docs/api/index.html?overview-summary.html)
 
-[Intellij](https://www.jetbrains.com/idea/)
+[Stack Overflow](https://stackoverflow.com)
 
 [GitHub basics](https://guides.github.com/activities/hello-world/)
