@@ -16,7 +16,7 @@
 **Teaching Assistants:**
 
 + **Isabel Bulman** (bulmani@bc.edu) Office Hours TBD
-+ **Avery Gu** (gua@bc.edu): Office Hours TBD
++ **Davis Shen** (shendc@bc.edu): Office Hours TBD
 
 ---
 
@@ -31,7 +31,7 @@ I will be posting lecture notes, links to assignments and example code, and supp
 
 [Course schedule on Google Sheets:](https://docs.google.com/spreadsheets/d/1eP8h4zb-2wCc-n-p7G9y-ZunH5iwsF_AOyBQuw86iIA/edit?usp=sharing) The course schedule, including planned topics, due dates for readings and assignments, and dates of exams, is maintained as a Google Sheet. Changes to the schedule will be announced in class and reflected in the course schedule.
 
-[Slack for discussions and questions on problem sets:](https://bc-csci-1102-s19-tth3.slack.com) The instructor and TAs will hold virtual Slack office hours each week in addition to their in-person office hours. You may ask questions on Slack during virtual office hours for an immediate answer or at any time for an answer within 24 hours. Problem Set 1 will walk you through using Slack to ask a question.
+[Slack for discussions and questions on problem sets:](https://bc-csci-1102-s19-tth3.slack.com) The instructor and TAs will hold virtual Slack office hours each week in addition to their in-person office hours. You may ask questions on Slack during virtual office hours for an immediate answer or at any time for an answer within 24 hours. Problem Set 2 will walk you through using Slack to ask a question.
 
 
 ### Required Textbook
