@@ -16,7 +16,7 @@
 **Teaching Assistants:**
 
 + **Isabel Bulman** (bulmani@bc.edu) Office Hours TBD
-+ **Davis Shen** (shendc@bc.edu): Office Hours TBD
++ **David Shen** (shendc@bc.edu): Office Hours TBD
 
 ---
 
