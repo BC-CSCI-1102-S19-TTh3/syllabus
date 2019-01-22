@@ -18,7 +18,7 @@
 **Teaching Assistants:**
 
 + **Isabel Bulman** (bulmani@bc.edu):  Lab in Fulton 160 Thu 4-5pm; Virtual on Slack Mon 6-7pm and Tue 4-5pm
-+ **David Shen** (shendc@bc.edu): Lab in Fulton 160 Wed 8-10pm; Virtual on Slack Mon 2-4pm
++ **David Shen** (shendc@bc.edu): Lab in Fulton 160 Wed 11am-noon and 8-9pm; Virtual on Slack Mon 2-4pm
 
 ---
 
