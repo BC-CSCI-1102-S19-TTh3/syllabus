@@ -18,7 +18,7 @@
 **Teaching Assistants:**
 
 + **Isabel Bulman** (bulmani@bc.edu) Office Hours TBD
-+ **David Shen** (shendc@bc.edu): Office Hours TBD
++ **David Shen** (shendc@bc.edu): Lab in Fulton 160 Wednesday 8-10pm; Virtual on Slack Monday 2-4pm
 
 ---
 
