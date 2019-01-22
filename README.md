@@ -9,7 +9,9 @@
 
 **Office:** St. Mary's South, 2nd floor
 
-**Office Hours**: TBD or by appointment
+**Office Hours**: Tu 1:30-2:30, Th 12:30-1:30 or by appointment
+
+**Virtual Slack Office Hours**: Wednesday 10am to noon
 
 **Course Schedule**: [Available here](https://docs.google.com/spreadsheets/d/1eP8h4zb-2wCc-n-p7G9y-ZunH5iwsF_AOyBQuw86iIA/edit?usp=sharing)
 
