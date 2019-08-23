@@ -1,5 +1,5 @@
 # CSCI 1102 Computer Science II 
-## Spring 2018 - TTh 3-4:15 
+## Spring 2019 - TTh 3-4:15 
 
 ---
 
